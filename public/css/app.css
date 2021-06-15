@@ -1,0 +1,19 @@
+body{
+	padding-top: 30px;
+    background: #e3f6f5 url("../../public/svg/earth.svg") center top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.bg-card{
+    background: #b0c9d1 url("../../public/svg/mountains.svg") center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-transp{
+    background: rgba(254, 254, 254, 0.6);
+}
+.card-body h4{font-family: 'Lobster', cursive; color: #27496d;}
+
+
+/*background-image: linear-gradient(90deg, #F2F6FA, #FAFAFA 79%);*/
