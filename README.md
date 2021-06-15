@@ -35,7 +35,10 @@ Puedes clonar este repositorio desde <b>GitHub: </b>[<b>alfonsochb/metereologia<
     metereologia\app\ModelClass.php
     ```
 	
-7. Visualice el resultado en un navegador web
+7. Visualice el resultado en un navegador web ejemplo:
+    ```txt
+    http://mi-servidor-web/metereologia/
+    ```
 
 ## Reconocimiento
 Autor: [Alfonso Chávez Baquero](https://github.com/alfonsochb?target=_blank)
