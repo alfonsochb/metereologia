@@ -1,4 +1,4 @@
-![Mi repositorio GitHub](https://github.com/alfonsochb/metereologia/public/img/screen.png)
+![Mi repositorio GitHub](https://github.com/alfonsochb/metereologia/blob/master/public/img/screen.png)
 
 # Práctica: consumir API metereológica desde PHP
 #### Esta es una práctica de conocimientos PHP para obtener datos desde una [API OpenWeather](https://openweathermap.org/)
